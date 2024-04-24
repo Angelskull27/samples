@@ -23,11 +23,6 @@ class CatalogModel {
     'Hydra Code',
     'Off-By-One',
     'Scope',
-    'Callback',
-    'Closure',
-    'Automata',
-    'Bit Shift',
-    'Currying',
   ];
 
   /// Get item by [id].
